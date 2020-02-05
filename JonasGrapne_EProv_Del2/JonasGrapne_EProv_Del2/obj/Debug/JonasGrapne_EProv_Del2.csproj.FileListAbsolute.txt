@@ -1,0 +1,6 @@
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\JonasGrapne_EProv_Del2\JonasGrapne_EProv_Del2\bin\Debug\JonasGrapne_EProv_Del2.exe.config
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\JonasGrapne_EProv_Del2\JonasGrapne_EProv_Del2\bin\Debug\JonasGrapne_EProv_Del2.exe
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\JonasGrapne_EProv_Del2\JonasGrapne_EProv_Del2\bin\Debug\JonasGrapne_EProv_Del2.pdb
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\JonasGrapne_EProv_Del2\JonasGrapne_EProv_Del2\obj\Debug\JonasGrapne_EProv_Del2.csprojResolveAssemblyReference.cache
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\JonasGrapne_EProv_Del2\JonasGrapne_EProv_Del2\obj\Debug\JonasGrapne_EProv_Del2.exe
+c:\users\jonas.szikrisztgrap\documents\visual studio 2017\Projects\JonasGrapne_EProv_Del2\JonasGrapne_EProv_Del2\obj\Debug\JonasGrapne_EProv_Del2.pdb
